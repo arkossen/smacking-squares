@@ -1,0 +1,3 @@
+// Assets folder
+- In here all the assets of the project will be find in here.
+- Models, textures, materials, sounds, scenes, shaders etc...

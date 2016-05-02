@@ -1,0 +1,3 @@
+// Scenes folder
+- Save here all your scenes.
+- Use: Scene<Followed by your scene name>,

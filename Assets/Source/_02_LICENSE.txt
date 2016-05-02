@@ -1,0 +1,4 @@
+/*
+    Copyright (c) 2013 Jayce Rettob (jbrettob.com)
+    Please direct any bugs/comments/suggestions to http://jbrettob.com
+*/

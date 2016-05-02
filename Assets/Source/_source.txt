@@ -1,0 +1,3 @@
+// Source folder
+- In here all scripts will be added for the project.
+- Make sure every script is seperate or grouped in each folder.

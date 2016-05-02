@@ -1,0 +1,4 @@
+// Audio folder
+- Place here all the audio files, use folders if needed.
+- Place music audio in Music folder.
+- Place sound audio in Sound folder.

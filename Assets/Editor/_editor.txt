@@ -1,0 +1,6 @@
+// Editor folder
+- In here you place custom editors for Unity3D.
+- These can be meshes, textures, codes which are used for the custom editor itself.
+- Editors can be Custom Editors, EditorWizard, seperate EditorWindow and more...
+- Codes needs to be extends with Editor class which is from a seperate namespace. So include "using UnityEditor;" in your code.
+Link: http://docs.unity3d.com/Documentation/ScriptReference/Editor.html

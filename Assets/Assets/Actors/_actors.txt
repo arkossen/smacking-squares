@@ -1,0 +1,31 @@
+// Assets folder
+- In here all the assets of the project will be find in here.
+- Models, textures, materials, sounds, scenes etc...
+i.e.:
+- Player
+
+-- PlayerModelOne
+--- Materials
+--- Textures
+
+-- PlayerModelTwo
+--- Materials
+--- Textures
+
+
+- Enemies
+
+-- Crab
+--- Materials
+--- Textures
+
+-- Bear
+--- Materials
+--- Textures
+
+
+- Structures
+
+-- HouseMain
+--- Materials
+--- Textures
