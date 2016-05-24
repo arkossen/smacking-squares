@@ -1,3 +1,0 @@
-// Effects Folder
-- Place here all effects in the way the "DummyModelName" hase been made.
-i.e.: DummyModelName = FireEffect or FireParticle

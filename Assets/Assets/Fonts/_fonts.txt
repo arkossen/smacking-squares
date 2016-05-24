@@ -1,2 +1,0 @@
-// Fonts folder
-- Add here all the fonts used in your game.

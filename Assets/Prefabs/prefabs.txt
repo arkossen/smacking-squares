@@ -1,2 +1,0 @@
-// Prefabs folder
-- Prefab will be used when we need more then one of the same instance in the project.

@@ -1,2 +1,0 @@
-// Shaders folder
-- Save here all your shaders.

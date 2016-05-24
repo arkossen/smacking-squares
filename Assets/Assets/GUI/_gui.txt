@@ -1,3 +1,0 @@
-// GUI folder
-- Place here all the GUI Materials and Textures.
-- If Models are required, follow the same rule as "DummyModelName".
